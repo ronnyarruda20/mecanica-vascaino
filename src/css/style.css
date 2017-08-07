@@ -55,3 +55,8 @@ p {
 footer.page-footer {
   margin: 0;
 }
+
+.logo-principal{
+  display: block !important; 
+  transform: translate3d(-50%, 156px, 0px) !important;
+}
